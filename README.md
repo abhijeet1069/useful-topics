@@ -1,0 +1,3 @@
+# Topics
+
+## Sparse Git checkout
